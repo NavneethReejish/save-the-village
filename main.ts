@@ -1,2 +1,5 @@
-tiles.setCurrentTilemap(tilemap`level1`)
-scene.setBackgroundColor(0)
+function startLevel () {
+	
+}
+startLevel()
+let level = 1
